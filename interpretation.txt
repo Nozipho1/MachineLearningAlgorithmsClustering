@@ -1,0 +1,5 @@
+1) 1953 - the 1953 clusters are more centred around birthrate, this indicated a higher birthrate with the people giving birth being older rather than younger.
+
+2008 - The 2008 cluster suggests a younger population contributing to the birth rate. This can be seen by the cluster not being so dense and more spread out in relation to the life expectancy.
+
+2) dataBoth shows how life expectancy increased over the years. This can be seen by how the clusters have spread out. For example, South Africa in 2008 showed an increase that compared to 1953 US. This could be due to lack of information on South Africa and other developing countries at the time. Many 2008 countries include 1953 countries, suggesting a steady birth rate and life expectancy, the same cannot be said about about 1953 country clusters which suggest a high birth rate and low life expectancy.
