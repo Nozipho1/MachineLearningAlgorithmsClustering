@@ -1,2 +1,3 @@
 # Machine-Learning-Algoritgms-Clustering
-k means clustering
+
+An example of how I tackled k means clustering using python
